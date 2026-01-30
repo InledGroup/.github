@@ -1,0 +1,474 @@
+Ahora voy a crear el archivo llms.txt con todo el contenido compilado. El archivo llms.txt es un formato estándar para documentar recursos de IA/LLM. Voy a crear un archivo con estructura clara:
+
+```
+# Inled Group - Apps and Projects Documentation
+
+## Metadata
+Title: Inled Group - Apps Store and Projects
+URL: https://apps.inled.es/ and https://inled.es/proyectos/
+Description: Complete documentation of Inled Group's open-source applications and projects ecosystem
+Last Updated: 2025-12-20
+
+---
+
+## Overview
+
+Inled Group is an open-source organization dedicated to creating high-quality applications and services. All applications are licensed under GNU GPLv3.0 with an emphasis on privacy and open-source principles.
+
+---
+
+## Inled Open Store - Applications
+
+### 1. Swiftinstall
+**Platform:** Linux
+**Type:** Native App
+**Description:** Install, uninstall and manage .deb and .appimage packages easily
+**URL:** https://inled.es/apps/swiftinstall/
+
+**Features:**
+- Open Source
+- 100% visual process
+- High quality software with extensive testing before release
+- Install applications graphically from .deb or .appimage packages
+- Uninstall any app visually
+- Fix dependency errors
+- Analyze system for viruses
+- Clean system garbage
+- Modern appearance
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/swiftinstall/releases/download/v8.0/swiftinstall8.1-ui-fix.deb
+- SourceForge: https://sourceforge.net/projects/swiftinstall/files/latest/download
+- Source Code: https://github.com/InledGroup/swiftinstall
+
+---
+
+### 2. Warp VPN GUI
+**Platform:** Linux
+**Type:** Native App
+**Description:** Simple graphical interface to manage Cloudflare's free Warp VPN
+
+**Features:**
+- 100% visual interface
+- No learning curve
+- High quality, reviewed and tested software
+- Network security thanks to 1.1.1.1
+- Avoid IP blocks and bans
+
+**Installation:**
+- Via Swiftinstall: Download .deb → Open Swiftinstall → Select package → Click Install
+- Via dpkg: Execute `dpkg -i warp-exec-v1.deb`
+
+**Requirements:**
+- Warp VPN installed: https://pkg.cloudflareclient.com/#debian
+- Warp activated: https://developers.cloudflare.com/warp-client/get-started/linux/
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/warpvpn-gui/releases/download/v1.0/warp-exec-v1.deb
+- SourceForge: https://sourceforge.net/projects/warpvpn-gui/files/latest/download
+- Source Code: https://github.com/InledGroup/warpvpn-gui
+
+---
+
+### 3. Start Omnibox
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Use any search engine you want. Easy, in 3 clicks.
+
+**Features:**
+- Choose your search engine from Start Omnibox dropdown
+- No need to visit each search engine's page
+- Quick switching between search engines
+
+**Installation:**
+1. Download and extract the zip
+2. Enable Developer Mode and upload the extension
+3. In Chrome/Edge extensions section, activate Developer Mode in top right corner
+4. Click "Load unpacked" in the dropdown
+5. Activate the extension
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/start-omnibox/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/start-omnibox
+
+---
+
+### 4. Cruz Cristiana para GNOME
+**Platforms:** Linux (GNOME)
+**Type:** Native App
+**Description:** Shows the cross of Christ so that God's presence is with you.
+
+**Features:**
+- Display Christian cross in GNOME bar
+- Constant companion of faith while using Linux
+- Free and open source
+- Spiritual support in digital format
+
+**Downloads:**
+- GNOME Extensions: https://extensions.gnome.org/extension/8060/christian-cross-in-gnome-bar/
+- Source Code: https://github.com/jaimegh-es/cruzcristiana-gnome
+
+---
+
+### 5. Memory Warn
+**Platform:** Linux
+**Type:** Native App
+**Description:** Warns when your computer's memory usage exceeds an established threshold
+
+**Features:**
+- Block prevention
+- Alert when threshold is exceeded
+- Adaptable monitoring frequency
+- Visual interface
+- High quality code with strict reviews for security and reliability
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/memory-warn/releases/download/v1.0/memory-warn.deb
+- SourceForge: https://sourceforge.net/projects/memory-warn/files/latest/download
+- Source Code: https://github.com/InledGroup/memory-warn
+
+---
+
+### 6. Start New Tab Page
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Experience productivity with Start as your home page.
+
+**Features:**
+- Set Start as new tab page
+- Set Start as startup page
+- Set Start as home page
+- Productivity-focused design
+
+**Installation:**
+1. Download and extract the zip
+2. Enable Developer Mode in extensions section
+3. Click "Load unpacked"
+4. Activate the extension
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/start.newtab.chrome/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/start.newtab.chrome
+
+---
+
+### 7. Windows Error
+**Platform:** Mac
+**Type:** Native App
+**Description:** Enjoy the Windows XP error window on your Mac.
+
+**Features:**
+- Fun window mimicking classic Windows XP errors
+- Completely harmless - no actual damage to Mac
+- Open source code for security verification
+- Easy installation process
+
+**Installation Notes:**
+- Application is not "notarized" (not signed with Apple developer ID)
+- Must remove quarantine: `xattr -d com.apple.quarantine WindowsError\ 2.app`
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/windowserror/releases/download/v2.0/WindowsError2.zip
+- SourceForge: https://sourceforge.net/projects/windowserror/files/latest/download
+- Source Code: https://github.com/InledGroup/windowserror
+
+---
+
+### 8. WinBSOD
+**Platform:** Mac
+**Type:** Native App
+**Description:** Simulate the Windows Blue Screen of Death on your Mac.
+
+**Features:**
+- Nostalgic simulation of Windows BSOD
+- Perfect for nostalgia or making Mac look more like Windows
+- Harmless simulation
+- Available for Mac users
+
+**Installation Notes:**
+- Not "notarized" - must use: `xattr -d com.apple.quarantine BSOD.app`
+
+**Downloads:**
+- GitHub: https://github.com/Inled-Group/winbsod/releases/download/v1.0/BSOD.app.zip
+- Source Code: https://github.com/InledGroup/winbsod
+
+---
+
+### 9. Tabstacker
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Save tabs, send them and do everything with them easily
+
+**Features:**
+- Save browser tabs easily
+- Share tabs via instant messaging or email
+- Reopen grouped tabs without hassle
+- Private functionality (unlike other tools)
+- Easy tab management
+
+**Installation:**
+- Enable Developer Mode in Chrome or derivatives
+- Upload the extracted .zip
+
+**Status:** Currently in improvement - automatic update system coming soon
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/tabstacker/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/tabstacker
+
+---
+
+### 10. Cleany
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Perfect extension for public or shared computers
+
+**Features:**
+- Close sessions
+- Delete browsing history
+- Clear cookies
+- Clean form data
+- Runs automatically when browser opens without slowing it down
+- Ideal for public computer security
+
+**Installation:**
+1. Download and extract .zip
+2. Enable Developer Mode in Chrome extensions page
+3. Upload the extension folder
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/cleany/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/cleany
+
+---
+
+### 11. Open in Archive.is
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Open the page in archive.is with one click
+
+**Features:**
+- One-click access to archive.is
+- Access unlimited content through multiple page captures
+- View webpage snapshots
+
+**Installation:**
+1. Download .zip and extract
+2. Go to browser Extensions page (not store, the installed extensions page)
+3. Enable Developer Mode
+4. Click "Load unpacked"
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/open-url-archive.is/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/open-url-archive.is
+
+---
+
+### 12. Startchat
+**Platforms:** Mac, Windows, Linux
+**Type:** Native App
+**Description:** Chat on the same WiFi network, without external servers
+
+**Features:**
+- Local WiFi chat without external servers
+- Act as both chat server and conversation page
+- Multiple pre-configured servers for ports 8080, 8081, 8082
+- Default server provides UI
+
+**Requirements:**
+- Node.js installed
+
+**Execution:**
+1. Install Node.js
+2. Navigate to Startchat folder in terminal
+3. Execute: `npm install` then `node server.js`
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/startchat/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/startchat
+
+---
+
+### 13. InShare
+**Platforms:** Mac, Windows, Linux
+**Type:** Native App
+**Description:** Share files through local network in 100% private way
+
+**Features:**
+- Personal document drop (Dropbox-like for local network)
+- Share from phone to PC and vice versa
+- Works on any operating system
+- No app installation needed - just run a simple server
+- 100% private file sharing
+
+**Requirements:**
+- Node.js installed
+
+**Execution:**
+1. Install Node.js
+2. Navigate to InShare folder in terminal
+3. Execute: `npm install` then `node server.js`
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/inshare/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/inshare
+
+---
+
+### 14. Moodle Notifier
+**Platforms:** Chrome, Edge
+**Type:** Extension
+**Description:** Stay updated with Moodle platform notifications
+
+**Comprehensive Features:**
+- Automatic popup on Chrome startup showing pending tasks
+- Sound notification for pending tasks or reminders
+- Periodic task verification every 5 minutes
+- Direct access to activities from popup
+- Postpone tasks for 20 minutes with visual countdown timer
+- Mark activities as viewed to hide from main list
+- View all tasks (including marked as viewed) with option to unmark
+- Hamburger menu with quick access to all functions
+- Secure authentication using official Moodle API
+- Intuitive interface for task management
+
+**Requirements:**
+- Google Chrome or Chromium-based browser
+- Moodle platform account
+- Moodle platform must have "moodle_mobile_app" web service enabled
+
+**Installation:**
+1. Open Chrome and go to chrome://extensions/
+2. Enable "Developer Mode" in top right corner
+3. Click "Load unpacked extension"
+4. Select moodlenotifier folder
+
+**Configuration:**
+1. Click extension icon in toolbar
+2. Enter Moodle settings:
+   - Moodle URL (e.g., https://moodle.example.com)
+   - Username
+   - Password
+3. Click "Save Configuration"
+
+**Usage:**
+- Tasks automatically display on Chrome startup
+- 5-minute periodic verification
+- Hamburger menu for: Update Tasks, View All Tasks, Change Settings
+- Three buttons per task: Open, Postpone 20min, Mark Viewed
+- Real-time countdown timer for postponed tasks
+
+**Security:**
+- Local credential storage in browser
+- Official Moodle API authentication
+- No third-party data sharing
+- Secure HTTPS update verification
+
+**Troubleshooting:**
+- Verify correct Moodle URL (no trailing slash)
+- Check username and password
+- Ensure Moodle web service is enabled
+- Verify API enabled: https://moodle.example.com/login/token.php?username=USER&password=PASS&service=moodle_mobile_app
+
+**Technologies:**
+- Manifest V3 (latest Chrome extension version)
+- Moodle Web API
+- Chrome Storage API
+- Chrome Notifications API
+- Chrome Alarms API
+
+**Downloads:**
+- GitHub: https://github.com/InledGroup/moodlenotifier/archive/refs/heads/main.zip
+- Source Code: https://github.com/InledGroup/moodlenotifier
+
+---
+
+## Inled Projects Ecosystem
+
+### Main Services
+
+1. **Start** - Fast search, instant access. Multi-search engine and home page.
+   - URL: https://start.inled.es/
+
+2. **Songbird** - AI-generated music with human-created titles.
+   - URL: https://suno.com/@songbird_music
+
+3. **MDPDF** - Free Markdown Editor and MD to PDF converter.
+   - URL: https://mdpdf.inled.es/
+
+4. **InDoc** - Online text editor.
+   - URL: https://indoc.inled.es/
+
+5. **InMD** - Only free visual Markdown editor.
+   - URL: https://inmd.inled.es/
+
+6. **InLinked** - LinkedIn post formatter with private AI.
+   - URL: https://inlinked.inled.es/
+
+7. **InPDF** - PDF viewer with AI for browser.
+   - URL: https://inpdf.inled.es/
+
+8. **InQR** - Link, WiFi and barcode QR code generator. Private and secure.
+   - URL: https://inqr.inled.es/
+
+9. **Inled AI** - Future of local and free AI.
+   - URL: https://ai.inled.es/
+
+10. **Domain Info** - Get information about a domain or IP address.
+    - URL: https://status.inled.es/ipcheck.html
+
+11. **Devreka** - Business idea generator for developers.
+    - URL: https://devreka.inled.es/
+
+12. **Matrix WWW** - Website with Matrix software simulations.
+    - URL: https://matrix-www.inled.es/
+
+13. **Glassy** - Create beautiful liquid glass style SVGs from normal ones.
+    - URL: https://glassy.inled.es/
+
+---
+
+## Organization Information
+
+**Name:** Inled Group
+**Website:** https://inled.es/
+**License:** GNU GPLv3.0
+
+### Contact & Legal
+- Privacy Policy: https://inled.es/privacy-policy
+- Cookie Policy: https://inled.es/cookie-policy
+
+### Social Links
+- GitHub: https://github.com/InledGroup
+- YouTube: https://www.youtube.com/@inledgroup
+- Mastodon: https://mastodon.social/@inled
+- SourceForge: https://sourceforge.net/u/inledgroup/profile/
+
+### Core Values
+- Open Source First: All software is licensed under GNU GPLv3.0
+- Privacy Focused: No data collection or sharing with third parties
+- Quality Oriented: Extensive testing and code reviews before release
+- User-Centric: Design focused on solving real user problems
+
+---
+
+## Technology Stack
+
+### Applications Use
+- Native Apps: Python, C, JavaScript/Node.js
+- Extensions: JavaScript (Manifest V3)
+- Web Services: Modern web technologies (HTML5, CSS3, JavaScript)
+
+### Development Practices
+- Strict code quality reviews
+- Extensive testing before release
+- Open source development on GitHub
+- Community-driven improvements
+
+---
+
+## API Documentation
+
+**Open Store API:** https://apps.inled.es/api/docs
+
+For developers interested in integrating with Inled Group, please contact at contacto@inled.es
