@@ -1,41 +1,22 @@
+<div align="center">
 
-![Banner](https://hosted.inled.es/1/banner-github-inled-better-with-logo.gif)
+# JaimeGH.
 
-**Open Source | Privacy First | Local AI | Technological Sovereignty**
+**Founder @ [InledGroup](https://inled.es) · Agentic Engineer · Frontend Developer · Product Owner · Linux User and Developer**
 
-[![Website](https://img.shields.io/badge/Website-inled.es-blue?style=flat-square&logo=google-chrome)](https://inled.es/)
-[![License](https://img.shields.io/badge/License-GNU%20GPLv3.0-green?style=flat-square&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![GitHub](https://img.shields.io/badge/GitHub-InledGroup-black?style=flat-square&logo=github)](https://github.com/InledGroup)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@inled-purple?style=flat-square&logo=mastodon)](https://mastodon.social/@inled)
-
----
-
-## 🚀 Our Mission
-
-**Inled Group** is an open-source brand dedicated to creating high-quality applications and services. We specialize in the use of AI agents and Local AI, focusing on both the final product and the development process itself.
-
-Our core mission is to develop solutions that prioritize:
-*   **Artificial Intelligence** (specifically Local AI)
-*   **Privacy** & Security
-*   **Technological Sovereignty** (for Spain and beyond)
-*   **Open Source Principles**
-*   **Edge Computing**
-
-We believe in software that respects the user, keeping data private and code transparent.  
-La informática es la mejor herramienta para el ser humano.
-
----
-## 🗺️ Roadmap and incoming projects. 
-- [ ] Gemini CLI Voice
-- [ ] Agent Tunnel
-
-**Note:** This roadmap is subject to change. You may see more projects in our repo than those officially announced. These are still in beta (some don't explicitly state this, but it's true), so they aren't ready for production use. However, the projects that are announced but listed as being in beta in the repo ARE ready for production; their repo has simply not been updated.
+[![GitHub Stars](https://img.shields.io/github/stars/jaimegh-es?style=flat-square&logo=github&labelColor=333&color=blue)](https://github.com/jaimegh-es)
+[![AI Engineer](https://img.shields.io/badge/AI_Engineer-JaimeGH-blue?style=flat-square&logo=openai&labelColor=333)](https://github.com/jaimegh-es)
+[![Agentic Developer](https://img.shields.io/badge/Agentic_Developer-JaimeGH-green?style=flat-square&logo=claude&labelColor=333)](https://github.com/jaimegh-es)
+[![Frontend Specialist](https://img.shields.io/badge/Frontend_Specialist-JGH-orange?style=flat-square&logo=astro&labelColor=333)](https://github.com/jaimegh-es)
 
 ---
 
-## 📦 Projects
+> "Programar es la manera más barata de construir tus sueños."
 
-We maintain a diverse ecosystem of open-source tools.
+</div>
+
+## Inled Projects
+*Estos proyectos los he desarrollado para Inled Group, la marca que fundé.*
 
 <!-- INLED-START -->
 <table border="0">
@@ -342,20 +323,57 @@ We maintain a diverse ecosystem of open-source tools.
 
 <!-- INLED-END -->
 
+##  Personal Projects
+*Algunos de mis ultimos proyectos.*
+
+<table border="0">
+  <tr>
+  <td align="center" width="250">
+  <a href="https://github.com/jaimegh-es/openwrt-telegram-notifier" target="_blank">
+      <img src="https://img.icons8.com/fluency/96/code.png" width="80"><br>
+      <b>OpenWRT Telegram Notifier</b><br>
+      <sub>Cada vez que alguien se conecta a la VPN o accede al router por SSH recibo una notificación en Telegram</sub><br>
+    </a>
+    </td>
+    <td align="center" width="250">
+  <a href="https://github.com/jaimegh-es/docker-termux" target="_blank">
+      <img src="https://raw.githubusercontent.com/jaimegh-es/docker-termux/main/docker-termux-gemini.png" width="80"><br>
+      <b>Docker on Termux on Android</b><br>
+      <sub>Instrucciones para poder ejecutar un contenedor docker o CasaOS en Termux en Android</sub><br>
+    </a>
+    </td>
+    <td align="center" width="250">
+  <a href="https://github.com/jaimegh-es/oh-my-posh-espa-a" target="_blank">
+      <img src="https://raw.githubusercontent.com/jaimegh-es/oh-my-posh-espa-a/main/secreenshot.png" width="80"><br>
+      <b>Oh My Posh Spain Theme</b><br>
+      <sub>El tema que uso en mi terminal. Con los colores de la bandera de España. (No relacionado con politica)</sub><br>
+    </a>
+    </td>
+    <!--<td align="center" width="250">
+  <a href="https://github.com/jaimegh-es/openwrt-telegram-notifier" target="_blank">
+      <img src="https://img.icons8.com/fluency/96/code.png" width="80"><br>
+      <b>OpenWRT Telegram Notifier</b><br>
+      <sub>Cada vez que alguien se conecta a la VPN o accede al router por SSH recibo una notificación en Telegram</sub><br>
+    </a>
+    </td>-->
+  </tr>
+</table>
+
+## Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaimegh-es&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegh-es&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegh-es&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
+
 ---
 
-## 🤝 Connect With Us
-
-*   **Website:** [inled.es](https://inled.es/)
-*   **Mail:** [hi@inled.es](mailto:hi@inled.es)
-*   **YouTube:** [@inledgroup](https://www.youtube.com/@inledgroup)
-*   **SourceForge:** [Inled Group Profile](https://sourceforge.net/u/inledgroup/profile/)
-
-### Legal
-*   [Privacy Policy](https://inled.es/privacy-policy)
-*   [Cookie Policy](https://inled.es/cookie-policy)
-
----
-<p align="center">
-  <sub>All our software, unless otherwise stated in its repository, is licensed under the GNU General Public License 3. Open source is the best way to thrive and collaborate. We maintain all our projects altruistically, as we receive no remuneration.</sub>
-</p>
+<div align="center">
+  <sub>Hecho con ❤️ por JaimeGH | Actualizado automáticamente vía GitHub Actions</sub>
+</div>
