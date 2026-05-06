@@ -41,6 +41,13 @@ We maintain a diverse ecosystem of open-source tools.
 <table border="0">
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://office.inled.es/" target="_blank">
+        <img src="https://hosted.inled.es/insuite.svg" width="80" alt="Insuite Office logo"><br>
+        <b>Insuite Office</b>
+      </a><br>
+      <sub>El Office que se ejecuta en el navegador, es privado 100%, no sube nada a la nube, no necesitas cuenta y es 100% made in spain</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/agent-tunnel" target="_blank">
         <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
         <b>Agent Tunnel</b>
@@ -48,21 +55,21 @@ We maintain a diverse ecosystem of open-source tools.
       <sub>Acceso remoto seguro para tus agentes de IA: monta carpetas y redirige comandos.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://mypdf.inled.es" target="_blank">
-        <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
-        <b>MyPDF</b>
+      <a href="https://start.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/start-simple-blanco-sinfondo.png" width="80" alt="Start logo"><br>
+        <b>Start</b>
       </a><br>
-      <sub>La alternativa privada e ilimitada a ilovePDF</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://mymetadata.inled.es" target="_blank">
-        <img src="https://hosted.inled.es/mymetadata.svg" width="80" alt="MyMetadata logo"><br>
-        <b>MyMetadata</b>
-      </a><br>
-      <sub>Los eliminadores de metadatos disponibles suben su archivo a sus servidores. Nosotros no, todo se procesa en tu propio navegador.</sub>
+      <sub>El buscador de buscadores más privado y hecho en España</sub>
     </td>
   </tr>
   <tr>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/bautilus" target="_blank">
+        <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
+        <b>Bautilus</b>
+      </a><br>
+      <sub>Convierte tu navegador en un explorador de archivos estilo Nautilus (GNOME). Privado y todopoderoso.</sub>
+    </td>
     <td align="center" width="250" valign="top">
       <a href="https://edge.inled.es/landing" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
@@ -71,11 +78,27 @@ We maintain a diverse ecosystem of open-source tools.
       <sub>La alternativa 100% privada y local a los chatbots de IA de OpenAI y Google.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/tuby" target="_blank">
-        <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
-        <b>Tuby</b>
+      <a href="https://mypdf.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
+        <b>MyPDF</b>
       </a><br>
-      <sub>Descarga vídeos y audio de YT con la máxima calidad a 3 clics. Aislado y seguro.</sub>
+      <sub>La alternativa privada e ilimitada a ilovePDF</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
+      <a href="https://mymetadata.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/mymetadata.svg" width="80" alt="MyMetadata logo"><br>
+        <b>MyMetadata</b>
+      </a><br>
+      <sub>Los eliminadores de metadatos disponibles suben su archivo a sus servidores. Nosotros no, todo se procesa en tu propio navegador.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/tabnest" target="_blank">
+        <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
+        <b>TabNest</b>
+      </a><br>
+      <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/gemini-notifier" target="_blank">
@@ -92,29 +115,6 @@ We maintain a diverse ecosystem of open-source tools.
         <b>Vozes</b>
       </a><br>
       <sub>Escritura por voz para Linux, 100% local, privada e instantánea.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/weby" target="_blank">
-        <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
-        <b>Weby</b>
-      </a><br>
-      <sub>Tu copiloto de IA local y privado que resuelve dudas sobre la web que visitas.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/bautilus" target="_blank">
-        <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
-        <b>Bautilus</b>
-      </a><br>
-      <sub>Convierte tu navegador en un explorador de archivos estilo Nautilus (GNOME). Privado y todopoderoso.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://start.inled.es" target="_blank">
-        <img src="https://hosted.inled.es/start-simple-blanco-sinfondo.png" width="80" alt="Start logo"><br>
-        <b>Start</b>
-      </a><br>
-      <sub>Tu página de inicio inteligente y multibuscador.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/indoc" target="_blank">
@@ -193,14 +193,21 @@ We maintain a diverse ecosystem of open-source tools.
       <sub>Crea chatbots de IA privados que se ejecutan en el navegador del visitante.</sub>
     </td>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/weby" target="_blank">
+        <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
+        <b>Weby</b>
+      </a><br>
+      <sub>Tu copiloto de IA local y privado que resuelve dudas sobre la web que visitas.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
         <b>Dark Reader PDF</b>
       </a><br>
       <sub>Abre tus archivos PDF en un modo oscuro real y personalizable.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -209,12 +216,14 @@ We maintain a diverse ecosystem of open-source tools.
       <sub>Marca tus objetivos e ir completándolos. Ideal para organizarse, autismo y TDAH.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/tabnest" target="_blank">
-        <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
-        <b>TabNest</b>
+      <a href="https://inled.es/apps/tuby" target="_blank">
+        <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
+        <b>Tuby</b>
       </a><br>
-      <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
+      <sub>Descarga vídeos y audio de YT con la máxima calidad a 3 clics. Aislado y seguro.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -222,8 +231,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Navegación ultra-segura mediante aislamiento remoto y endurecimiento de red.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/appinstall" target="_blank">
         <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
@@ -238,6 +245,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Una extensión perfecta para ordenadores públicos o compartidos.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -245,8 +254,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Chat en la misma red wifi, sin servidores externos.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -261,6 +268,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Estate al día de las novedades de tu Moodle.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -268,8 +277,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Interfaz gráfica super sencilla para gestionar la VPN gratuita de Cloudflare: Warp.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -284,6 +291,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Experimenta la productividad con Start como página de inicio.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -291,8 +300,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Disfruta de la ventana de error de Windows XP en tu Mac.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -307,6 +314,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Guarda pestañas, envíalas y haz de todo con ellas fácilmente.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -314,8 +323,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Abre la página en archive.is a un clic.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cruzcristiana" target="_blank">
         <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
@@ -330,6 +337,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Memory-warn advierte cuando el uso de memoria de su ordenador supera un umbral establecido.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://github.com/jaimegh-es/geminissh" target="_blank">
         <img src="https://hosted.inled.es/geminishh-3d.png" width="80" alt="Gemini SSH logo"><br>
@@ -337,6 +346,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Usa el Gemini de un dispositivo en múltiples dispositivos remotos.</sub>
     </td>
+    <td width="250"></td>
+    <td width="250"></td>
   </tr>
 </table>
 
