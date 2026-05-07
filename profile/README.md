@@ -340,13 +340,19 @@ We maintain a diverse ecosystem of open-source tools.
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/codexbar-gnome" target="_blank">
+        <img src="https://hosted.inled.es/codexbar-logo.png" width="80" alt="CodexBar for GNOME logo"><br>
+        <b>CodexBar for GNOME</b>
+      </a><br>
+      <sub>Monitoriza el uso de tus proveedores de IA directamente en la barra de GNOME.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://github.com/jaimegh-es/geminissh" target="_blank">
         <img src="https://hosted.inled.es/geminishh-3d.png" width="80" alt="Gemini SSH logo"><br>
         <b>Gemini SSH</b>
       </a><br>
       <sub>Usa el Gemini de un dispositivo en múltiples dispositivos remotos.</sub>
     </td>
-    <td width="250"></td>
     <td width="250"></td>
   </tr>
 </table>
