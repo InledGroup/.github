@@ -22,12 +22,28 @@
 <table border="0">
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/ai-exporter" target="_blank">
+        <img src="https://hosted.inled.es/aiexporter.png" width="80" alt="AI Exporter logo"><br>
+        <b>AI Exporter</b>
+      </a><br>
+      <sub>Exporta tus conversaciones con IA de forma 100% gratuita a WORD, PDF, MD, TXT y JSON.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/appinstall" target="_blank">
+        <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
+        <b>AppInstall</b>
+      </a><br>
+      <sub>Tu gestor de paquetes todo en uno: instala, desinstala y gestiona apps con facilidad.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/web2skill" target="_blank">
         <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
         <b>web2skill</b>
       </a><br>
       <sub>Convierte documentación web en skills de Markdown optimizadas para IA.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/codexbar-gnome" target="_blank">
         <img src="https://hosted.inled.es/codexbar-logo.png" width="80" alt="CodexBar for GNOME logo"><br>
@@ -42,8 +58,6 @@
       </a><br>
       <sub>El Office que se ejecuta en el navegador, es privado 100%, no sube nada a la nube, no necesitas cuenta y es 100% made in spain</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://start.inled.es" target="_blank">
         <img src="https://hosted.inled.es/start-simple-blanco-sinfondo.png" width="80" alt="Start logo"><br>
@@ -51,6 +65,8 @@
       </a><br>
       <sub>El buscador de buscadores más privado y hecho en España</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/bautilus" target="_blank">
         <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
@@ -65,8 +81,6 @@
       </a><br>
       <sub>La alternativa 100% privada y local a los chatbots de IA de OpenAI y Google.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/agent-tunnel" target="_blank">
         <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
@@ -74,6 +88,8 @@
       </a><br>
       <sub>Acceso remoto seguro para tus agentes de IA: monta carpetas y redirige comandos.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mypdf.inled.es" target="_blank">
         <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
@@ -88,8 +104,6 @@
       </a><br>
       <sub>Los eliminadores de metadatos disponibles suben su archivo a sus servidores. Nosotros no, todo se procesa en tu propio navegador.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabnest" target="_blank">
         <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
@@ -97,6 +111,8 @@
       </a><br>
       <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/gemini-notifier" target="_blank">
         <img src="https://hosted.inled.es/1/gemini-voice.png" width="80" alt="Gemini Notifier logo"><br>
@@ -111,8 +127,6 @@
       </a><br>
       <sub>Escritura por voz para Linux, 100% local, privada e instantánea.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/indoc" target="_blank">
         <img src="https://hosted.inled.es/INDOC.png" width="80" alt="InDoc logo"><br>
@@ -120,6 +134,8 @@
       </a><br>
       <sub>Editor de texto y documentos en línea colaborativo.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inmd" target="_blank">
         <img src="https://hosted.inled.es/inMD.png" width="80" alt="InMD logo"><br>
@@ -134,8 +150,6 @@
       </a><br>
       <sub>Convierte Markdown a PDF desde tu navegador.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inlinked" target="_blank">
         <img src="https://hosted.inled.es/INLINKED.png" width="80" alt="InLinked logo"><br>
@@ -143,6 +157,8 @@
       </a><br>
       <sub>Generador de posts para LinkedIn potenciado por IA.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inqr" target="_blank">
         <img src="https://hosted.inled.es/inqr.png" width="80" alt="InQR logo"><br>
@@ -157,8 +173,6 @@
       </a><br>
       <sub>Convierte archivos Markdown a DOCX y viceversa al instante.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://devreka.inled.es" target="_blank">
         <img src="https://hosted.inled.es/devreka.png" width="80" alt="Devreka! logo"><br>
@@ -166,6 +180,8 @@
       </a><br>
       <sub>Generador de ideas de negocio para devs con IA.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://glassy.inled.es" target="_blank">
         <img src="https://hosted.inled.es/glassy.svg" width="80" alt="Glassy logo"><br>
@@ -180,8 +196,6 @@
       </a><br>
       <sub>Simulaciones de Matrix, en el navegador.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://aicloud.inled.es" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="AI Cloud logo"><br>
@@ -189,6 +203,8 @@
       </a><br>
       <sub>Crea chatbots de IA privados que se ejecutan en el navegador del visitante.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
@@ -203,8 +219,6 @@
       </a><br>
       <sub>Abre tus archivos PDF en un modo oscuro real y personalizable.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -212,6 +226,8 @@
       </a><br>
       <sub>Marca tus objetivos e ir completándolos. Ideal para organizarse, autismo y TDAH.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -226,15 +242,6 @@
       </a><br>
       <sub>Navegación ultra-segura mediante aislamiento remoto y endurecimiento de red.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/appinstall" target="_blank">
-        <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
-        <b>AppInstall</b>
-      </a><br>
-      <sub>Instala, desinstala y gestiona paquetes .deb y .appimage fácilmente.</sub>
-    </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cleany" target="_blank">
         <img src="https://hosted.inled.es/cleany.png" width="80" alt="Cleany logo"><br>
@@ -242,6 +249,8 @@
       </a><br>
       <sub>Una extensión perfecta para ordenadores públicos o compartidos.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -249,8 +258,6 @@
       </a><br>
       <sub>Chat en la misma red wifi, sin servidores externos.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -265,6 +272,8 @@
       </a><br>
       <sub>Estate al día de las novedades de tu Moodle.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -272,8 +281,6 @@
       </a><br>
       <sub>Interfaz gráfica super sencilla para gestionar la VPN gratuita de Cloudflare: Warp.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -288,6 +295,8 @@
       </a><br>
       <sub>Experimenta la productividad con Start como página de inicio.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -295,8 +304,6 @@
       </a><br>
       <sub>Disfruta de la ventana de error de Windows XP en tu Mac.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -311,6 +318,8 @@
       </a><br>
       <sub>Guarda pestañas, envíalas y haz de todo con ellas fácilmente.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -318,8 +327,6 @@
       </a><br>
       <sub>Abre la página en archive.is a un clic.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cruzcristiana" target="_blank">
         <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
@@ -334,6 +341,8 @@
       </a><br>
       <sub>Memory-warn advierte cuando el uso de memoria de su ordenador supera un umbral establecido.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://github.com/jaimegh-es/geminissh" target="_blank">
         <img src="https://hosted.inled.es/geminishh-3d.png" width="80" alt="Gemini SSH logo"><br>
@@ -341,6 +350,8 @@
       </a><br>
       <sub>Usa el Gemini de un dispositivo en múltiples dispositivos remotos.</sub>
     </td>
+    <td width="250"></td>
+    <td width="250"></td>
   </tr>
 </table>
 
