@@ -52,34 +52,27 @@
       <sub>Monitoriza el uso de tus proveedores de IA directamente en la barra de GNOME.</sub>
     </td>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/macboat" target="_blank">
+        <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
+        <b>Macboat</b>
+      </a><br>
+      <sub>La forma más sencilla de ejecutar macOS en Linux y Windows. Potente, sencillo y basado en tecnologías de vanguardia.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://office.inled.es/" target="_blank">
         <img src="https://hosted.inled.es/insuite.svg" width="80" alt="Insuite Office logo"><br>
         <b>Insuite Office</b>
       </a><br>
       <sub>El Office que se ejecuta en el navegador, es privado 100%, no sube nada a la nube, no necesitas cuenta y es 100% made in spain</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://start.inled.es" target="_blank">
         <img src="https://hosted.inled.es/start-simple-blanco-sinfondo.png" width="80" alt="Start logo"><br>
         <b>Start</b>
       </a><br>
       <sub>El buscador de buscadores más privado y hecho en España</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/bautilus" target="_blank">
-        <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
-        <b>Bautilus</b>
-      </a><br>
-      <sub>Convierte tu navegador en un explorador de archivos estilo Nautilus (GNOME). Privado y todopoderoso.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://edge.inled.es/landing" target="_blank">
-        <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
-        <b>Edge AI</b>
-      </a><br>
-      <sub>La alternativa 100% privada y local a los chatbots de IA de OpenAI y Google.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/agent-tunnel" target="_blank">
@@ -88,8 +81,6 @@
       </a><br>
       <sub>Acceso remoto seguro para tus agentes de IA: monta carpetas y redirige comandos.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mypdf.inled.es" target="_blank">
         <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
@@ -97,6 +88,8 @@
       </a><br>
       <sub>La alternativa privada e ilimitada a ilovePDF</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mymetadata.inled.es" target="_blank">
         <img src="https://hosted.inled.es/mymetadata.svg" width="80" alt="MyMetadata logo"><br>
@@ -105,27 +98,11 @@
       <sub>Los eliminadores de metadatos disponibles suben su archivo a sus servidores. Nosotros no, todo se procesa en tu propio navegador.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/tabnest" target="_blank">
-        <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
-        <b>TabNest</b>
+      <a href="https://edge.inled.es/landing" target="_blank">
+        <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
+        <b>Edge AI</b>
       </a><br>
-      <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/gemini-notifier" target="_blank">
-        <img src="https://hosted.inled.es/1/gemini-voice.png" width="80" alt="Gemini Notifier logo"><br>
-        <b>Gemini Notifier</b>
-      </a><br>
-      <sub>Recibe notificaciones cuando Gemini CLI requiere tu atención. Instalación rápida mediante hooks.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/vozes" target="_blank">
-        <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
-        <b>Vozes</b>
-      </a><br>
-      <sub>Escritura por voz para Linux, 100% local, privada e instantánea.</sub>
+      <sub>La alternativa 100% privada y local a los chatbots de IA de OpenAI y Google.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/indoc" target="_blank">
@@ -206,6 +183,36 @@
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/bautilus" target="_blank">
+        <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
+        <b>Bautilus</b>
+      </a><br>
+      <sub>Convierte tu navegador en un explorador de archivos estilo Nautilus (GNOME). Privado y todopoderoso.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/tabnest" target="_blank">
+        <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
+        <b>TabNest</b>
+      </a><br>
+      <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/gemini-notifier" target="_blank">
+        <img src="https://hosted.inled.es/1/gemini-voice.png" width="80" alt="Gemini Notifier logo"><br>
+        <b>Gemini Notifier</b>
+      </a><br>
+      <sub>Recibe notificaciones cuando Gemini CLI requiere tu atención. Instalación rápida mediante hooks.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/vozes" target="_blank">
+        <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
+        <b>Vozes</b>
+      </a><br>
+      <sub>Escritura por voz para Linux, 100% local, privada e instantánea.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
         <b>Weby</b>
@@ -219,6 +226,8 @@
       </a><br>
       <sub>Abre tus archivos PDF en un modo oscuro real y personalizable.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -226,8 +235,6 @@
       </a><br>
       <sub>Marca tus objetivos e ir completándolos. Ideal para organizarse, autismo y TDAH.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -242,6 +249,8 @@
       </a><br>
       <sub>Navegación ultra-segura mediante aislamiento remoto y endurecimiento de red.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cleany" target="_blank">
         <img src="https://hosted.inled.es/cleany.png" width="80" alt="Cleany logo"><br>
@@ -249,8 +258,6 @@
       </a><br>
       <sub>Una extensión perfecta para ordenadores públicos o compartidos.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -265,6 +272,8 @@
       </a><br>
       <sub>Comparte archivos a través de la red local de forma 100% privada.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/moodlenotifier" target="_blank">
         <img src="https://hosted.inled.es/moodlenotifier.png" width="80" alt="Moodle Notifier logo"><br>
@@ -272,8 +281,6 @@
       </a><br>
       <sub>Estate al día de las novedades de tu Moodle.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -288,6 +295,8 @@
       </a><br>
       <sub>Usa el buscador que quieras. Fácil, a 3 clics.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startntp" target="_blank">
         <img src="https://hosted.inled.es/start.newtabpage.png" width="80" alt="Start New Tab Page logo"><br>
@@ -295,8 +304,6 @@
       </a><br>
       <sub>Experimenta la productividad con Start como página de inicio.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -311,6 +318,8 @@
       </a><br>
       <sub>Simula la BSOD de Windows... ¡en tu Mac!.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabstacker" target="_blank">
         <img src="https://hosted.inled.es/tabstacker.png" width="80" alt="Tabstacker logo"><br>
@@ -318,8 +327,6 @@
       </a><br>
       <sub>Guarda pestañas, envíalas y haz de todo con ellas fácilmente.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -334,6 +341,8 @@
       </a><br>
       <sub>Muestra la cruz de Cristo para que la presencia de Dios esté contigo.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/memorywarn" target="_blank">
         <img src="https://hosted.inled.es/memory-warn-logo.png" width="80" alt="Memory Warn logo"><br>
@@ -341,8 +350,6 @@
       </a><br>
       <sub>Memory-warn advierte cuando el uso de memoria de su ordenador supera un umbral establecido.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://github.com/jaimegh-es/geminissh" target="_blank">
         <img src="https://hosted.inled.es/geminishh-3d.png" width="80" alt="Gemini SSH logo"><br>
@@ -350,7 +357,6 @@
       </a><br>
       <sub>Usa el Gemini de un dispositivo en múltiples dispositivos remotos.</sub>
     </td>
-    <td width="250"></td>
     <td width="250"></td>
   </tr>
 </table>
