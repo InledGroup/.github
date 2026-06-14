@@ -22,29 +22,6 @@
 <table border="0">
   <tr>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/ai-exporter" target="_blank">
-        <img src="https://hosted.inled.es/aiexporter.png" width="80" alt="AI Exporter logo"><br>
-        <b>AI Exporter</b>
-      </a><br>
-      <sub>Exporta tus conversaciones con IA de forma 100% gratuita a WORD, PDF, MD, TXT y JSON.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/appinstall" target="_blank">
-        <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
-        <b>AppInstall</b>
-      </a><br>
-      <sub>Tu gestor de paquetes todo en uno: instala, desinstala y gestiona apps con facilidad.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/web2skill" target="_blank">
-        <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
-        <b>web2skill</b>
-      </a><br>
-      <sub>Convierte documentación web en skills de Markdown optimizadas para IA.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/codexbar-gnome" target="_blank">
         <img src="https://hosted.inled.es/codexbar-logo.png" width="80" alt="CodexBar for GNOME logo"><br>
         <b>CodexBar for GNOME</b>
@@ -52,11 +29,11 @@
       <sub>Monitoriza el uso de tus proveedores de IA directamente en la barra de GNOME.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/macboat" target="_blank">
-        <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
-        <b>Macboat</b>
+      <a href="https://inled.es/apps/ai-exporter" target="_blank">
+        <img src="https://hosted.inled.es/aiexporter.png" width="80" alt="AI Exporter logo"><br>
+        <b>AI Exporter</b>
       </a><br>
-      <sub>La forma más sencilla de ejecutar macOS en Linux y Windows. Potente, sencillo y basado en tecnologías de vanguardia.</sub>
+      <sub>Exporta tus conversaciones con IA de forma 100% gratuita a WORD, PDF, MD, TXT y JSON.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://office.inled.es/" target="_blank">
@@ -179,6 +156,29 @@
         <b>AI Cloud</b>
       </a><br>
       <sub>Crea chatbots de IA privados que se ejecutan en el navegador del visitante.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/appinstall" target="_blank">
+        <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
+        <b>AppInstall</b>
+      </a><br>
+      <sub>Tu gestor de paquetes todo en uno: instala, desinstala y gestiona apps con facilidad.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/web2skill" target="_blank">
+        <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
+        <b>web2skill</b>
+      </a><br>
+      <sub>Convierte documentación web en skills de Markdown optimizadas para IA.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/macboat" target="_blank">
+        <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
+        <b>Macboat</b>
+      </a><br>
+      <sub>La forma más sencilla de ejecutar macOS en Linux y Windows. Potente, sencillo y basado en tecnologías de vanguardia.</sub>
     </td>
   </tr>
   <tr>
