@@ -22,15 +22,6 @@ Our core mission is to develop solutions that prioritize:
 *   **Edge Computing**
 
 We believe in software that respects the user, keeping data private and code transparent.  
-La informática es la mejor herramienta para el ser humano.
-
----
-## 🗺️ Roadmap and incoming projects. 
-- [ ] Gemini CLI Voice
-- [ ] Agent Tunnel
-
-**Note:** This roadmap is subject to change. You may see more projects in our repo than those officially announced. These are still in beta (some don't explicitly state this, but it's true), so they aren't ready for production use. However, the projects that are announced but listed as being in beta in the repo ARE ready for production; their repo has simply not been updated.
-
 ---
 
 ## 📦 Projects
@@ -397,5 +388,5 @@ We maintain a diverse ecosystem of open-source tools.
 
 ---
 <p align="center">
-  <sub>All our software, unless otherwise stated in its repository, is licensed under the GNU General Public License 3. Open source is the best way to thrive and collaborate. We maintain all our projects altruistically, as we receive no remuneration.</sub>
+  <sub>All of our software, except for forked code, is licensed under MIT-INLED.</sub>
 </p>
