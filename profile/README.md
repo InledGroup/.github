@@ -368,12 +368,23 @@ We maintain a diverse ecosystem of open-source tools.
       <sub>Memory-warn advierte cuando el uso de memoria de su ordenador supera un umbral establecido.</sub>
     </td>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/seafari" target="_blank">
+        <img src="https://hosted.inled.es/seafari.png" width="80" alt="Seafari logo"><br>
+        <b>Seafari</b>
+      </a><br>
+      <sub>Navegador clon de Safari construido sobre Firefox, con máxima libertad, compatibilidad y miles de extensiones.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
       <a href="https://github.com/jaimegh-es/geminissh" target="_blank">
         <img src="https://hosted.inled.es/geminishh-3d.png" width="80" alt="Gemini SSH logo"><br>
         <b>Gemini SSH</b>
       </a><br>
       <sub>Usa el Gemini de un dispositivo en múltiples dispositivos remotos.</sub>
     </td>
+    <td width="250"></td>
+    <td width="250"></td>
   </tr>
 </table>
 
