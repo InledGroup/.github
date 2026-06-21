@@ -167,6 +167,22 @@
       <sub>Crea chatbots de IA privados que se ejecutan en el navegador del visitante.</sub>
     </td>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/seafari" target="_blank">
+        <img src="https://hosted.inled.es/seafari.png" width="80" alt="Seafari logo"><br>
+        <b>Seafari</b>
+      </a><br>
+      <sub>Navegador clon de Safari construido sobre Firefox, con máxima libertad, compatibilidad y miles de extensiones.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/macboat" target="_blank">
+        <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
+        <b>Macboat</b>
+      </a><br>
+      <sub>La forma más sencilla de ejecutar macOS en Linux y Windows. Potente, sencillo y basado en tecnologías de vanguardia.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/appinstall" target="_blank">
         <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
         <b>AppInstall</b>
@@ -180,15 +196,6 @@
       </a><br>
       <sub>Convierte documentación web en skills de Markdown optimizadas para IA.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/macboat" target="_blank">
-        <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
-        <b>Macboat</b>
-      </a><br>
-      <sub>La forma más sencilla de ejecutar macOS en Linux y Windows. Potente, sencillo y basado en tecnologías de vanguardia.</sub>
-    </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/bautilus" target="_blank">
         <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
@@ -196,6 +203,8 @@
       </a><br>
       <sub>Convierte tu navegador en un explorador de archivos estilo Nautilus (GNOME). Privado y todopoderoso.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabnest" target="_blank">
         <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
@@ -203,8 +212,6 @@
       </a><br>
       <sub>Tu centro de control personal en cada nueva pestaña: TV, radio y noticias.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/gemini-notifier" target="_blank">
         <img src="https://hosted.inled.es/1/gemini-voice.png" width="80" alt="Gemini Notifier logo"><br>
@@ -219,6 +226,8 @@
       </a><br>
       <sub>Escritura por voz para Linux, 100% local, privada e instantánea.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
@@ -226,8 +235,6 @@
       </a><br>
       <sub>Tu copiloto de IA local y privado que resuelve dudas sobre la web que visitas.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
@@ -242,6 +249,8 @@
       </a><br>
       <sub>Marca tus objetivos e ir completándolos. Ideal para organizarse, autismo y TDAH.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -249,8 +258,6 @@
       </a><br>
       <sub>Descarga vídeos y audio de YT con la máxima calidad a 3 clics. Aislado y seguro.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -265,6 +272,8 @@
       </a><br>
       <sub>Una extensión perfecta para ordenadores públicos o compartidos.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -272,8 +281,6 @@
       </a><br>
       <sub>Chat en la misma red wifi, sin servidores externos.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -288,6 +295,8 @@
       </a><br>
       <sub>Estate al día de las novedades de tu Moodle.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -295,8 +304,6 @@
       </a><br>
       <sub>Interfaz gráfica super sencilla para gestionar la VPN gratuita de Cloudflare: Warp.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -311,6 +318,8 @@
       </a><br>
       <sub>Experimenta la productividad con Start como página de inicio.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -318,8 +327,6 @@
       </a><br>
       <sub>Disfruta de la ventana de error de Windows XP en tu Mac.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -334,6 +341,8 @@
       </a><br>
       <sub>Guarda pestañas, envíalas y haz de todo con ellas fácilmente.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -341,8 +350,6 @@
       </a><br>
       <sub>Abre la página en archive.is a un clic.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cruzcristiana" target="_blank">
         <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
@@ -356,13 +363,6 @@
         <b>Memory Warn</b>
       </a><br>
       <sub>Memory-warn advierte cuando el uso de memoria de su ordenador supera un umbral establecido.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/seafari" target="_blank">
-        <img src="https://hosted.inled.es/seafari.png" width="80" alt="Seafari logo"><br>
-        <b>Seafari</b>
-      </a><br>
-      <sub>Navegador clon de Safari construido sobre Firefox, con máxima libertad, compatibilidad y miles de extensiones.</sub>
     </td>
   </tr>
   <tr>
