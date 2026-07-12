@@ -1,30 +1,40 @@
 
 ![Banner](https://hosted.inled.es/1/banner-github-inled-better-with-logo.gif)
 
-**Open Source | Privacy First | Local AI | Technological Sovereignty**
+<p align="center">
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Open Source</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Privacy First</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Linux</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> P2P</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Local AI</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Sovereignty</span>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-inled.es-blue?style=flat-square&logo=google-chrome)](https://inled.es/)
-[![License](https://img.shields.io/badge/License-GNU%20GPLv3.0-green?style=flat-square&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![GitHub](https://img.shields.io/badge/GitHub-InledGroup-black?style=flat-square&logo=github)](https://github.com/InledGroup)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@inled-purple?style=flat-square&logo=mastodon)](https://mastodon.social/@inled)
 
 ---
 
-## 🚀 Our Mission
+We are Inled Group, a Spanish software development brand focused on technological sovereignty, privacy, and open-source.  
+We develop software differently, with a focus on cost minimization, respecting the user as our main collaborator, and privacy.  
+We have created applications that others have never built before, changing the approach in an innovative way, which is why our motto is "Dream, Build".  
+If you wish, we would appreciate your collaboration on any projects you find useful. To learn how to contribute, [read this guide](https://help.inled.es/help/contribute-to-inled-projects/).
 
-**Inled Group** is an open-source brand dedicated to creating high-quality applications and services. We specialize in the use of AI agents and Local AI, focusing on both the final product and the development process itself.
-
-Our core mission is to develop solutions that prioritize:
-*   **Artificial Intelligence** (specifically Local AI)
-*   **Privacy** & Security
-*   **Technological Sovereignty** (for Spain and beyond)
-*   **Open Source Principles**
-*   **Edge Computing**
-
-We believe in software that respects the user, keeping data private and code transparent.  
 ---
 
-## 📦 Projects
+<p align="center">
+  <a href="https://inled.es"><img src="https://img.shields.io/badge/Website-inled.es-blue?style=for-the-badge&logo=internet-explorer&logoColor=white&color=0055ff" alt="Website"></a>
+  <a href="https://github.com/InledGroup"><img src="https://img.shields.io/badge/GitHub-InledGroup-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.com/invite/PSeTkDMnr"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://matrix.to/#/!POXBFohLnmrKwRBxTi:matrix.org?via=matrix.org"><img src="https://img.shields.io/badge/Matrix-Chat-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix"></a>
+  <a href="https://mastodon.social/@inled"><img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  <a href="https://x.com/inledgroup"><img src="https://img.shields.io/badge/X-Follow%20Us-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@inledgroup"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://whatimdoing.jaimegh.com/"><img src="https://img.shields.io/badge/Blog-What%20I'm%20Doing-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
+  <a href="mailto:hi@inled.es"><img src="https://img.shields.io/badge/Email-hi%40inled.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## Projects
 
 We maintain a diverse ecosystem of open-source tools.
 
@@ -379,18 +389,6 @@ We maintain a diverse ecosystem of open-source tools.
 
 <!-- INLED-END -->
 
----
-
-## 🤝 Connect With Us
-
-*   **Website:** [inled.es](https://inled.es/)
-*   **Mail:** [hi@inled.es](mailto:hi@inled.es)
-*   **YouTube:** [@inledgroup](https://www.youtube.com/@inledgroup)
-*   **SourceForge:** [Inled Group Profile](https://sourceforge.net/u/inledgroup/profile/)
-
-### Legal
-*   [Privacy Policy](https://inled.es/privacy-policy)
-*   [Cookie Policy](https://inled.es/cookie-policy)
 
 ---
 <p align="center">
