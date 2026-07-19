@@ -213,21 +213,12 @@
       <sub>Your personal control center in every new tab: TV, radio, and news.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/gemini-notifier" target="_blank">
-        <img src="https://hosted.inled.es/1/gemini-voice.png" width="80" alt="Gemini Notifier logo"><br>
-        <b>Gemini Notifier</b>
-      </a><br>
-      <sub>Get notifications when Gemini CLI requires your attention. Quick installation via hooks.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/vozes" target="_blank">
         <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
         <b>Vozes</b>
       </a><br>
       <sub>Voice typing for Linux, 100% local, private and instant.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
@@ -235,6 +226,8 @@
       </a><br>
       <sub>Your local and private AI copilot that solves doubts about the web you visit.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
@@ -249,8 +242,6 @@
       </a><br>
       <sub>Set your goals and mark them as completed. Ideal for organization, autism, and ADHD.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -258,6 +249,8 @@
       </a><br>
       <sub>Download YT videos and audio with maximum quality in 3 clicks. Isolated and secure.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -272,8 +265,6 @@
       </a><br>
       <sub>A perfect extension for public or shared computers.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -281,6 +272,8 @@
       </a><br>
       <sub>Chat on the same Wi-Fi network, without external servers.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -295,8 +288,6 @@
       </a><br>
       <sub>Stay up to date with your Moodle news.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -304,6 +295,8 @@
       </a><br>
       <sub>Super simple graphical interface to manage Cloudflare's free VPN: Warp.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -318,8 +311,6 @@
       </a><br>
       <sub>Experience productivity with Start as your home page.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -327,6 +318,8 @@
       </a><br>
       <sub>Enjoy the Windows XP error window on your Mac.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -341,8 +334,6 @@
       </a><br>
       <sub>Save tabs, send them and do everything with them easily.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -350,6 +341,8 @@
       </a><br>
       <sub>Open the page in archive.is with one click.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cruzcristiana" target="_blank">
         <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
@@ -364,6 +357,7 @@
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
+    <td width="250"></td>
   </tr>
 </table>
 
