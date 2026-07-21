@@ -111,6 +111,13 @@ We maintain a diverse ecosystem of open-source tools.
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://mdpedia.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/mdpedia.png" width="80" alt="MDPEDIA logo"><br>
+        <b>MDPEDIA</b>
+      </a><br>
+      <sub>Knowledge for the AI Era. The Wikipedia for AI Agents.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://edge.inled.es/landing" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
         <b>Edge AI</b>
@@ -124,6 +131,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Collaborative online text and document editor.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inmd" target="_blank">
         <img src="https://hosted.inled.es/inMD.png" width="80" alt="InMD logo"><br>
@@ -131,8 +140,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Powerful and free visual Markdown editor.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/mdpdf" target="_blank">
         <img src="https://hosted.inled.es/MDPDF.png" width="80" alt="MDPDF Online logo"><br>
@@ -147,6 +154,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>AI-powered LinkedIn post generator.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inqr" target="_blank">
         <img src="https://hosted.inled.es/inqr.png" width="80" alt="InQR logo"><br>
@@ -154,8 +163,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Secure and private QR code generator.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/mdoxc" target="_blank">
         <img src="https://hosted.inled.es/MDOCX.png" width="80" alt="MDocX logo"><br>
@@ -170,6 +177,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Business idea generator for devs with AI.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://glassy.inled.es" target="_blank">
         <img src="https://hosted.inled.es/glassy.svg" width="80" alt="Glassy logo"><br>
@@ -177,8 +186,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Transform SVGs to liquid glass.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://matrix-www.inled.es" target="_blank">
         <img src="https://hosted.inled.es/matrixwww.ico" width="80" alt="Matrix WWW logo"><br>
@@ -193,6 +200,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Create private AI chatbots that run in the visitor's browser.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/macboat" target="_blank">
         <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
@@ -200,8 +209,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>The easiest way to run macOS on Linux and Windows. Powerful, simple, and based on cutting-edge technologies.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/appinstall" target="_blank">
         <img src="https://hosted.inled.es/swiftinstall-logo.png" width="80" alt="AppInstall logo"><br>
@@ -216,6 +223,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Convert web documentation into AI-optimized Markdown skills.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/bautilus" target="_blank">
         <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
@@ -223,8 +232,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Turn your browser into a Nautilus-style (GNOME) file explorer. Private and powerful.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabnest" target="_blank">
         <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
@@ -239,6 +246,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Voice typing for Linux, 100% local, private and instant.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
@@ -246,8 +255,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Your local and private AI copilot that solves doubts about the web you visit.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
@@ -262,6 +269,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Set your goals and mark them as completed. Ideal for organization, autism, and ADHD.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -269,8 +278,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Download YT videos and audio with maximum quality in 3 clicks. Isolated and secure.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -285,6 +292,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>A perfect extension for public or shared computers.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -292,8 +301,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Chat on the same Wi-Fi network, without external servers.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -308,6 +315,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Stay up to date with your Moodle news.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -315,8 +324,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Super simple graphical interface to manage Cloudflare's free VPN: Warp.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -331,6 +338,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Experience productivity with Start as your home page.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -338,8 +347,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Enjoy the Windows XP error window on your Mac.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -354,6 +361,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Save tabs, send them and do everything with them easily.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -361,8 +370,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Open the page in archive.is with one click.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cruzcristiana" target="_blank">
         <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
@@ -377,7 +384,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
-    <td width="250"></td>
   </tr>
 </table>
 
