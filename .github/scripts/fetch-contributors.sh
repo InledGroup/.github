@@ -62,7 +62,7 @@ echo "Building contributors.json..."
   printf '{\n'
   printf '  "organization": "%s",\n' "$ORG"
   printf '  "lastUpdated": "%s",\n' "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-  printf '  "totalContributors": %d,\n' "$TOTAL"
+  printf '  "totalContributors": %d,\n' "$FILTERED_COUNT"
   printf '  "contributors": [\n'
 
   FIRST=true
