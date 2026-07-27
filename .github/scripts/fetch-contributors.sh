@@ -29,15 +29,26 @@ scan_repo() {
   local REPO="$1"
   local SINCE=""
 
-  echo "  $REPO: finding $OWNER's latest commit..."
-  SINCE=$(gh api "/repos/$REPO/commits?author=$OWNER&per_page=1" --jq '.[0].commit.committer.date' 2>/dev/null || echo "")
+  echo "  $REPO: finding $OWNER's first commit..."
+
+  # Get total pages of commits by author
+  local HEADER
+  HEADER=$(gh api "/repos/$REPO/commits?author=$OWNER&per_page=1" -i 2>/dev/null | grep -i 'link:' || echo "")
+
+  local LAST_PAGE=1
+  if echo "$HEADER" | grep -q 'rel="last"'; then
+    LAST_PAGE=$(echo "$HEADER" | grep -o 'page=[0-9]*>; rel="last"' | grep -o '[0-9]*')
+  fi
+
+  # Fetch the last page to get the oldest commit
+  SINCE=$(gh api "/repos/$REPO/commits?author=$OWNER&per_page=1&page=$LAST_PAGE" --jq '.[0].commit.committer.date' 2>/dev/null || echo "")
 
   if [ -z "$SINCE" ] || [ "$SINCE" = "null" ]; then
     echo "    No commits by $OWNER found, skipping"
     return
   fi
 
-  echo "    Since $SINCE - fetching commits..."
+  echo "    First commit at $SINCE - fetching all contributors since then..."
   gh api --paginate "/repos/$REPO/commits?since=$SINCE&per_page=100" \
     --jq '.[] | select(.author != null) | "\(.author.login)\t\(.author.avatar_url)"' 2>/dev/null > "$TMPFILE" || true
 
