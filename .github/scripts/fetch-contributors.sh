@@ -39,7 +39,22 @@ while IFS=$'\t' read -r LOGIN COUNT AVATAR; do
 done < "$TMPFILE"
 
 TOTAL=${#COUNTS[@]}
-echo "Found $TOTAL unique contributors"
+echo "Found $TOTAL unique contributors (before min-contributions filter)"
+
+MIN_CONTRIBS=3
+echo "Filtering contributors with >= $MIN_CONTRIBS contributions..."
+
+FILTERED_COUNT=0
+for LOGIN in "${!COUNTS[@]}"; do
+  if [ "${COUNTS[$LOGIN]}" -lt "$MIN_CONTRIBS" ]; then
+    unset "COUNTS[$LOGIN]"
+    unset "AVATARS[$LOGIN]"
+  else
+    FILTERED_COUNT=$((FILTERED_COUNT + 1))
+  fi
+done
+
+echo "Kept $FILTERED_COUNT contributors after filter"
 
 echo "Building contributors.json..."
 
