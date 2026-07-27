@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ORG="${1:?Usage: $0 <organization> <output.json>}"
-OWNER="${ORG}" 
-OUTPUT="${2:?Usage: $0 <organization> <output.json>}"
+ORG="${1:?Usage: $0 <organization> <owner-username> <output.json>}"
+OWNER="${2:?Usage: $0 <organization> <owner-username> <output.json>}"
+OUTPUT="${3:?Usage: $0 <organization> <owner-username> <output.json>}"
 
 echo "Fetching repositories for $ORG..."
 
@@ -61,6 +61,12 @@ done
 
 TOTAL=${#COUNTS[@]}
 echo "Found $TOTAL contributors"
+
+if [ "$TOTAL" -eq 0 ]; then
+  echo "Warning: No contributors found"
+  echo '{"organization":"'"$ORG"'","lastUpdated":"'"$(date -u +%Y-%m-%dT%H:%M:%SZ)"'","totalContributors":0,"contributors":[]}' > "$OUTPUT"
+  exit 0
+fi
 
 echo "Building contributors.json..."
 

@@ -27,7 +27,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           chmod +x .github/scripts/fetch-contributors.sh
-          .github/scripts/fetch-contributors.sh InledGroup contributors.json
+          .github/scripts/fetch-contributors.sh InledGroup jaimegh-es contributors.json
 
       - name: Update profile README
         run: |
