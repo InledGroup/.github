@@ -20,11 +20,11 @@ TOTAL=$(jq -r '.totalContributors' "$JSON_FILE")
 UPDATED=$(jq -r '.lastUpdated' "$JSON_FILE")
 
 CONTENT="Updated: \`$UPDATED\` · Total: **$TOTAL** contributors\n\n"
-CONTENT+="<table><tr>"
+CONTENT+="<div align=\"center\">\n<table width=\"100%\"><tr>"
 COL=0
 
 while IFS=$'\t' read -r LOGIN AVATAR; do
-  CONTENT+="<td align=\"center\" width=\"80\"><a href=\"https://github.com/$LOGIN\" target=\"_blank\"><img src=\"${AVATAR}?s=80&v=4\" width=\"50\" alt=\"@$LOGIN\" loading=\"lazy\" style=\"border-radius:50%\"><br><sub><b>@$LOGIN</b></sub></a></td>"
+  CONTENT+="<td align=\"center\" width=\"14%\" style=\"padding:8px 0\"><a href=\"https://github.com/$LOGIN\" target=\"_blank\"><img src=\"${AVATAR}?s=80&v=4\" width=\"50\" alt=\"@$LOGIN\" loading=\"lazy\" style=\"border-radius:50%\"><br><sub><b>@$LOGIN</b></sub></a></td>"
   COL=$((COL + 1))
   if [ $COL -eq 6 ]; then
     CONTENT+="</tr><tr>"
@@ -38,7 +38,7 @@ if [ $COL -gt 0 ] && [ $COL -lt 6 ]; then
   done
 fi
 
-CONTENT+="</tr></table>"
+CONTENT+="</tr></table>\n</div>"
 
 if grep -q "$START_MARKER" "$README_FILE"; then
   awk -v start="$START_MARKER" -v end="$END_MARKER" -v content="$(echo -e "$CONTENT")" '
