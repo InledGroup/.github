@@ -2,7 +2,7 @@
  * InledGroup Contributors Widget
  *
  * Usage:
- *   <script src="https://inledgroup.github.io/inled-profile/widget.js"></script>
+ *   <script src="https://inledgroup.github.io/.github/widget.js"></script>
  *   <div class="inled-contributors" data-limit="10"></div>
  *
  * Options (data attributes):
@@ -12,7 +12,7 @@
 (function () {
   "use strict";
 
-  var BASE = "https://inledgroup.github.io/inled-profile";
+  var BASE = "https://inledgroup.github.io/.github";
   var JSON_URL = BASE + "/contributors.json";
 
   var CSS = [
