@@ -5,7 +5,7 @@ ORG="${1:?Usage: $0 <organization> <output.json>}"
 OUTPUT="${2:?Usage: $0 <organization> <output.json>}"
 
 echo "Fetching repositories for $ORG..."
-REPOS=$(gh api --paginate "/orgs/$ORG/repos?type=public&per_page=100" --jq '.[].full_name')
+REPOS=$(gh api --paginate "/orgs/$ORG/repos?type=public&per_page=100" --jq '.[] | select(.fork == false) | .full_name')
 
 TMPFILE=$(mktemp)
 trap 'rm -f "$TMPFILE"' EXIT
