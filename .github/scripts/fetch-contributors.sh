@@ -7,22 +7,19 @@ OUTPUT="${2:?Usage: $0 <organization> <output.json>}"
 echo "Fetching repositories for $ORG..."
 
 REPO_DATA=$(mktemp)
-FORK_DATA=$(mktemp)
-trap 'rm -f "$REPO_DATA" "$FORK_DATA"' EXIT
+trap 'rm -f "$REPO_DATA"' EXIT
 
 gh api --paginate "/orgs/$ORG/repos?type=public&per_page=100" > "$REPO_DATA"
 
 FORKS=$(cat "$REPO_DATA" | jq -r '.[] | select(.fork == true) | .full_name')
-echo "$FORKS" > "$FORK_DATA"
-
-TOTAL_REPOS=$(cat "$REPO_DATA" | jq 'length')
-TOTAL_FORKS=$(wc -l < "$FORK_DATA" | tr -d ' ')
-echo "Found $TOTAL_REPOS repos, $TOTAL_FORKS forks (skipped)"
-
 REPOS=$(cat "$REPO_DATA" | jq -r '.[] | select(.fork == false) | .full_name')
 
+TOTAL_REPOS=$(cat "$REPO_DATA" | jq 'length')
+TOTAL_FORKS=$(echo "$FORKS" | grep -c . || echo 0)
+echo "Found $TOTAL_REPOS repos, $TOTAL_FORKS forks (excluded), $((TOTAL_REPOS - TOTAL_FORKS)) originals"
+
 TMPFILE=$(mktemp)
-trap 'rm -f "$REPO_DATA" "$FORK_DATA" "$TMPFILE"' EXIT
+trap 'rm -f "$REPO_DATA" "$TMPFILE"' EXIT
 
 for REPO in $REPOS; do
   echo "  Scanning $REPO..."
