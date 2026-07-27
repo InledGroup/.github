@@ -34,6 +34,36 @@
     document.head.appendChild(style);
   }
 
+  function createContributor(c) {
+    var link = document.createElement("a");
+    link.className = "inled-contributor";
+    link.href = c.profile;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.title = "@" + c.login + " (" + c.contributions + " contributions)";
+
+    var img = document.createElement("img");
+    img.src = c.avatar_url + "?s=128&v=4";
+    img.alt = "@" + c.login;
+    img.loading = "lazy";
+    img.width = 64;
+    img.height = 64;
+
+    var name = document.createElement("span");
+    name.className = "inled-contributor-name";
+    name.textContent = "@" + c.login;
+
+    var count = document.createElement("span");
+    count.className = "inled-contributor-count";
+    count.textContent = c.contributions + " contributions";
+
+    link.appendChild(img);
+    link.appendChild(name);
+    link.appendChild(count);
+
+    return link;
+  }
+
   function render(el, data) {
     var limit = parseInt(el.getAttribute("data-limit"), 10);
     var contributors = data.contributors || [];
@@ -44,38 +74,19 @@
 
     if (limit > 0) contributors = contributors.slice(0, limit);
 
+    el.innerHTML = "";
+
     if (!contributors.length) {
-      el.innerHTML =
-        '<span class="inled-contributors-error">No contributors found</span>';
+      var error = document.createElement("span");
+      error.className = "inled-contributors-error";
+      error.textContent = "No contributors found";
+      el.appendChild(error);
       return;
     }
 
-    var html = "";
     for (var i = 0; i < contributors.length; i++) {
-      var c = contributors[i];
-      var avatar = c.avatar_url + "?s=128&v=4";
-      html +=
-        '<a class="inled-contributor" href="' +
-        c.profile +
-        '" target="_blank" rel="noopener" title="@" +
-        c.login +
-        " (" +
-        c.contributions +
-        ' contributions)">' +
-        '<img src="' +
-        avatar +
-        '" alt="@' +
-        c.login +
-        '" loading="lazy" width="64" height="64">' +
-        '<span class="inled-contributor-name">@' +
-        c.login +
-        "</span>" +
-        '<span class="inled-contributor-count">' +
-        c.contributions +
-        " contributions</span>" +
-        "</a>";
+      el.appendChild(createContributor(contributors[i]));
     }
-    el.innerHTML = html;
   }
 
   function loadAll() {
