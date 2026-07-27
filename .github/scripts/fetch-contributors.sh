@@ -2,6 +2,7 @@
 set -euo pipefail
 
 ORG="${1:?Usage: $0 <organization> <output.json>}"
+OWNER="${ORG}" 
 OUTPUT="${2:?Usage: $0 <organization> <output.json>}"
 
 echo "Fetching repositories for $ORG..."
@@ -11,8 +12,8 @@ trap 'rm -f "$REPO_DATA"' EXIT
 
 gh api --paginate "/orgs/$ORG/repos?type=public&per_page=100" > "$REPO_DATA"
 
-FORKS=$(cat "$REPO_DATA" | jq -r '.[] | select(.fork == true) | .full_name')
 REPOS=$(cat "$REPO_DATA" | jq -r '.[] | select(.fork == false) | .full_name')
+FORKS=$(cat "$REPO_DATA" | jq -r '.[] | select(.fork == true) | .full_name')
 
 TOTAL_REPOS=$(cat "$REPO_DATA" | jq 'length')
 TOTAL_FORKS=$(echo "$FORKS" | grep -c . || echo 0)
@@ -21,40 +22,45 @@ echo "Found $TOTAL_REPOS repos, $TOTAL_FORKS forks (excluded), $((TOTAL_REPOS - 
 TMPFILE=$(mktemp)
 trap 'rm -f "$REPO_DATA" "$TMPFILE"' EXIT
 
-for REPO in $REPOS; do
-  echo "  Scanning $REPO..."
-  gh api --paginate "/repos/$REPO/contributors?per_page=100" \
-    --jq '.[] | select(.type == "User") | "\(.login)\t\(.contributions)\t\(.avatar_url)"' 2>/dev/null >> "$TMPFILE" || true
-done
-
-echo "Aggregating contributions..."
-
 declare -A AVATARS
 declare -A COUNTS
 
-while IFS=$'\t' read -r LOGIN COUNT AVATAR; do
-  [ -z "$LOGIN" ] && continue
-  COUNTS[$LOGIN]=$(( ${COUNTS[$LOGIN]:-0} + COUNT ))
-  AVATARS[$LOGIN]="$AVATAR"
-done < "$TMPFILE"
+scan_repo() {
+  local REPO="$1"
+  local SINCE=""
 
-TOTAL=${#COUNTS[@]}
-echo "Found $TOTAL unique contributors (before min-contributions filter)"
+  echo "  $REPO: finding $OWNER's latest commit..."
+  SINCE=$(gh api "/repos/$REPO/commits?author=$OWNER&per_page=1" --jq '.[0].commit.committer.date' 2>/dev/null || echo "")
 
-MIN_CONTRIBS=3
-echo "Filtering contributors with >= $MIN_CONTRIBS contributions..."
-
-FILTERED_COUNT=0
-for LOGIN in "${!COUNTS[@]}"; do
-  if [ "${COUNTS[$LOGIN]}" -lt "$MIN_CONTRIBS" ]; then
-    unset "COUNTS[$LOGIN]"
-    unset "AVATARS[$LOGIN]"
-  else
-    FILTERED_COUNT=$((FILTERED_COUNT + 1))
+  if [ -z "$SINCE" ] || [ "$SINCE" = "null" ]; then
+    echo "    No commits by $OWNER found, skipping"
+    return
   fi
+
+  echo "    Since $SINCE - fetching commits..."
+  gh api --paginate "/repos/$REPO/commits?since=$SINCE&per_page=100" \
+    --jq '.[] | select(.author != null) | "\(.author.login)\t\(.author.avatar_url)"' 2>/dev/null > "$TMPFILE" || true
+
+  declare -A REPO_COUNTS
+  while IFS=$'\t' read -r LOGIN AVATAR; do
+    [ -z "$LOGIN" ] && continue
+    REPO_COUNTS[$LOGIN]=$(( ${REPO_COUNTS[$LOGIN]:-0} + 1 ))
+    AVATARS[$LOGIN]="$AVATAR"
+  done < "$TMPFILE"
+
+  for LOGIN in "${!REPO_COUNTS[@]}"; do
+    COUNTS[$LOGIN]=$(( ${COUNTS[$LOGIN]:-0} + ${REPO_COUNTS[$LOGIN]} ))
+  done
+  unset REPO_COUNTS
+}
+
+echo "Scanning original repos..."
+for REPO in $REPOS; do
+  scan_repo "$REPO"
 done
 
-echo "Kept $FILTERED_COUNT contributors after filter"
+TOTAL=${#COUNTS[@]}
+echo "Found $TOTAL contributors"
 
 echo "Building contributors.json..."
 
@@ -62,7 +68,7 @@ echo "Building contributors.json..."
   printf '{\n'
   printf '  "organization": "%s",\n' "$ORG"
   printf '  "lastUpdated": "%s",\n' "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-  printf '  "totalContributors": %d,\n' "$FILTERED_COUNT"
+  printf '  "totalContributors": %d,\n' "$TOTAL"
   printf '  "contributors": [\n'
 
   FIRST=true
