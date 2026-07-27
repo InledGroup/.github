@@ -1,0 +1,62 @@
+name: Weekly Contributors Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-contributors:
+    name: update contributors
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch org contributors and generate JSON
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          chmod +x .github/scripts/fetch-contributors.sh
+          .github/scripts/fetch-contributors.sh InledGroup contributors.json
+
+      - name: Update profile README
+        run: |
+          chmod +x .github/scripts/merge-contributors.sh
+          .github/scripts/merge-contributors.sh profile/README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md contributors.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update weekly contributors"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    name: deploy to GitHub Pages
+    needs: update-contributors
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

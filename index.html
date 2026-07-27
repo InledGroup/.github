@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InledGroup Contributors</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #58a6ff, #bc8cff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .subtitle { color: #8b949e; margin-bottom: 32px; font-size: 14px; }
+    .inled-contributors { max-width: 900px; }
+    .copy-section {
+      margin-top: 48px;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 24px;
+      max-width: 600px;
+      width: 100%;
+    }
+    .copy-section h2 { font-size: 16px; margin-bottom: 12px; color: #e6edf3; }
+    .copy-section pre {
+      background: #0d1117;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 12px;
+      font-size: 13px;
+      overflow-x: auto;
+      color: #e6edf3;
+      line-height: 1.6;
+    }
+    .copy-section code { color: #79c0ff; }
+    footer { margin-top: 48px; color: #484f58; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <h1>InledGroup Contributors</h1>
+  <p class="subtitle">Auto-updated weekly from all public repositories</p>
+
+  <div class="inled-contributors" data-limit="50"></div>
+
+  <div class="copy-section">
+    <h2>Embed in your website</h2>
+    <pre><code>&lt;script src="https://inledgroup.github.io/inled-profile/widget.js"&gt;&lt;/script&gt;
+&lt;div class="inled-contributors"&gt;&lt;/div&gt;
+
+&lt;!-- Optional: limit to N contributors --&gt;
+&lt;div class="inled-contributors" data-limit="10"&gt;&lt;/div&gt;
+
+&lt;!-- Optional: horizontal row layout --&gt;
+&lt;div class="inled-contributors" data-format="row"&gt;&lt;/div&gt;</code></pre>
+  </div>
+
+  <footer>
+    Data sourced from the <a href="https://github.com/InledGroup" style="color:#58a6ff">InledGroup</a> GitHub organization.
+  </footer>
+
+  <script src="widget.js"></script>
+</body>
+</html>

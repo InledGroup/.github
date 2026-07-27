@@ -391,6 +391,14 @@ We maintain a diverse ecosystem of open-source tools.
 
 
 ---
+
+## Contributors
+
+<!-- CONTRIBUTORS-START -->
+*Los contribuidores se actualizan automaticamente cada lunes.*
+<!-- CONTRIBUTORS-END -->
+
+---
 <p align="center">
   <sub>All of our software, except for forked code, is licensed under MIT-INLED.</sub>
 </p>
