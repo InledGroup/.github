@@ -34,9 +34,13 @@ If you wish, we would appreciate your collaboration on any projects you find use
 
 ---
 ## News! Collaborating with PearOS  
-![w](workingwithpearos.gif)  
+<p align="center">
+<img src="workingwithpearos.gif">
+</p>
+<p align="center">
 Seafari is now the default PearOS browser. Now, the Inled repo is configured on PearOS to deliver users daily updates and our best applications.  
 Thanks to Alex for being interested in our browser and to the PearOS community that I love so much.
+</p>
 
 ## Projects
 
