@@ -183,6 +183,13 @@
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://os.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/pulsar-logo-simple-sf.png" width="80" alt="Pulsar OS logo"><br>
+        <b>Pulsar OS</b>
+      </a><br>
+      <sub>The Linux distribution that replaces Mac and will replace Windows and Android TV</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/macboat" target="_blank">
         <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
         <b>Macboat</b>
@@ -196,6 +203,8 @@
       </a><br>
       <sub>Your all-in-one package manager: easily install, uninstall, and manage apps.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/web2skill" target="_blank">
         <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
@@ -203,8 +212,6 @@
       </a><br>
       <sub>Convert web documentation into AI-optimized Markdown skills.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/bautilus" target="_blank">
         <img src="https://hosted.inled.es/bautilus.png" width="80" alt="Bautilus logo"><br>
@@ -219,6 +226,8 @@
       </a><br>
       <sub>Your personal control center in every new tab: TV, radio, and news.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/vozes" target="_blank">
         <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
@@ -226,8 +235,6 @@
       </a><br>
       <sub>Voice typing for Linux, 100% local, private and instant.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/weby" target="_blank">
         <img src="https://hosted.inled.es/weby.gif" width="80" alt="Weby logo"><br>
@@ -242,6 +249,8 @@
       </a><br>
       <sub>Open your PDF files in a true, customizable dark mode.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -249,8 +258,6 @@
       </a><br>
       <sub>Set your goals and mark them as completed. Ideal for organization, autism, and ADHD.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
         <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
@@ -265,6 +272,8 @@
       </a><br>
       <sub>Ultra-secure browsing through remote isolation and network hardening.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cleany" target="_blank">
         <img src="https://hosted.inled.es/cleany.png" width="80" alt="Cleany logo"><br>
@@ -272,8 +281,6 @@
       </a><br>
       <sub>A perfect extension for public or shared computers.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startchat" target="_blank">
         <img src="https://hosted.inled.es/startchat.png" width="80" alt="Startchat logo"><br>
@@ -288,6 +295,8 @@
       </a><br>
       <sub>Share files across the local network in a 100% private way.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/moodlenotifier" target="_blank">
         <img src="https://hosted.inled.es/moodlenotifier.png" width="80" alt="Moodle Notifier logo"><br>
@@ -295,8 +304,6 @@
       </a><br>
       <sub>Stay up to date with your Moodle news.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/warp-vpn" target="_blank">
         <img src="https://hosted.inled.es/warpupscale.png" width="80" alt="Warp VPN GUI logo"><br>
@@ -311,6 +318,8 @@
       </a><br>
       <sub>Use the search engine you want. Easy, in 3 clicks.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startntp" target="_blank">
         <img src="https://hosted.inled.es/start.newtabpage.png" width="80" alt="Start New Tab Page logo"><br>
@@ -318,8 +327,6 @@
       </a><br>
       <sub>Experience productivity with Start as your home page.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winerror" target="_blank">
         <img src="https://hosted.inled.es/winerror.png" width="80" alt="Windows Error logo"><br>
@@ -334,6 +341,8 @@
       </a><br>
       <sub>Simulate the Windows BSOD... on your Mac!</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabstacker" target="_blank">
         <img src="https://hosted.inled.es/tabstacker.png" width="80" alt="Tabstacker logo"><br>
@@ -341,8 +350,6 @@
       </a><br>
       <sub>Save tabs, send them and do everything with them easily.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/archive.is" target="_blank">
         <img src="https://hosted.inled.es/archive.is.png" width="80" alt="Open in Archive.is logo"><br>
@@ -357,6 +364,8 @@
       </a><br>
       <sub>Display the cross of Christ so that God's presence is with you.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/memorywarn" target="_blank">
         <img src="https://hosted.inled.es/memory-warn-logo.png" width="80" alt="Memory Warn logo"><br>
@@ -364,6 +373,8 @@
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
+    <td width="250"></td>
+    <td width="250"></td>
   </tr>
 </table>
 
