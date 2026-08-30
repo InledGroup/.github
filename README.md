@@ -358,23 +358,12 @@
       <sub>Open the page in archive.is with one click.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/cruzcristiana" target="_blank">
-        <img src="https://hosted.inled.es/cruzcristiana-gnome-logo.png" width="80" alt="Cruz Cristiana para GNOME logo"><br>
-        <b>Cruz Cristiana para GNOME</b>
-      </a><br>
-      <sub>Display the cross of Christ so that God's presence is with you.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/memorywarn" target="_blank">
         <img src="https://hosted.inled.es/memory-warn-logo.png" width="80" alt="Memory Warn logo"><br>
         <b>Memory Warn</b>
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
-    <td width="250"></td>
-    <td width="250"></td>
   </tr>
 </table>
 
