@@ -96,13 +96,6 @@ We maintain a diverse ecosystem of open-source tools.
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
-      <a href="https://inled.es/apps/agent-tunnel" target="_blank">
-        <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
-        <b>Agent Tunnel</b>
-      </a><br>
-      <sub>Secure remote access for your AI agents: mount folders and redirect commands.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
       <a href="https://mypdf.inled.es" target="_blank">
         <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
         <b>MyPDF</b>
@@ -116,8 +109,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Metadata removers upload your file to their servers. We don't, everything is processed in your own browser.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mdpedia.inled.es" target="_blank">
         <img src="https://hosted.inled.es/mdpedia.png" width="80" alt="MDPEDIA logo"><br>
@@ -125,6 +116,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Knowledge for the AI Era. The Wikipedia for AI Agents.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://edge.inled.es/landing" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
@@ -139,8 +132,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Collaborative online text and document editor.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inmd" target="_blank">
         <img src="https://hosted.inled.es/inMD.png" width="80" alt="InMD logo"><br>
@@ -148,6 +139,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Powerful and free visual Markdown editor.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/mdpdf" target="_blank">
         <img src="https://hosted.inled.es/MDPDF.png" width="80" alt="MDPDF Online logo"><br>
@@ -162,8 +155,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>AI-powered LinkedIn post generator.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inqr" target="_blank">
         <img src="https://hosted.inled.es/inqr.png" width="80" alt="InQR logo"><br>
@@ -171,6 +162,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Secure and private QR code generator.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/mdoxc" target="_blank">
         <img src="https://hosted.inled.es/MDOCX.png" width="80" alt="MDocX logo"><br>
@@ -185,8 +178,6 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Business idea generator for devs with AI.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://glassy.inled.es" target="_blank">
         <img src="https://hosted.inled.es/glassy.svg" width="80" alt="Glassy logo"><br>
@@ -194,6 +185,8 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Transform SVGs to liquid glass.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://matrix-www.inled.es" target="_blank">
         <img src="https://hosted.inled.es/matrixwww.ico" width="80" alt="Matrix WWW logo"><br>
@@ -208,15 +201,15 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Create private AI chatbots that run in the visitor's browser.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://os.inled.es" target="_blank">
-        <img src="https://hosted.inled.es/pulsar-logo-simple-sf.png" width="80" alt="Pulsar OS logo"><br>
+        <img src="https://hosted.inled.es/cdn/pulsar-logo-simple-sf.png" width="80" alt="Pulsar OS logo"><br>
         <b>Pulsar OS</b>
       </a><br>
       <sub>The Linux distribution that replaces Mac and will replace Windows and Android TV</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/macboat" target="_blank">
         <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
@@ -231,14 +224,21 @@ We maintain a diverse ecosystem of open-source tools.
       </a><br>
       <sub>Your all-in-one package manager: easily install, uninstall, and manage apps.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/web2skill" target="_blank">
         <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
         <b>web2skill</b>
       </a><br>
       <sub>Convert web documentation into AI-optimized Markdown skills.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/agent-tunnel" target="_blank">
+        <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
+        <b>Agent Tunnel</b>
+      </a><br>
+      <sub>Secure remote access for your AI agents: mount folders and redirect commands.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/bautilus" target="_blank">
