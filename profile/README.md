@@ -1,15 +1,14 @@
 
-![Banner](https://hosted.inled.es/1/banner-github-inled-better-with-logo.gif)
+<div align="center">
+<img src="https://hosted.inled.es/img/inled-logo-full.png" width="80" alt="Inled"></img>
+</div>
 
 <p align="center">
   <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Open Source</span>&nbsp;&nbsp;
-  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Privacy First</span>&nbsp;&nbsp;
+  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Community driven</span>&nbsp;&nbsp;
   <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Linux</span>&nbsp;&nbsp;
-  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> P2P</span>&nbsp;&nbsp;
-  <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Local AI</span>&nbsp;&nbsp;
   <span style="font-size: 1.1em; font-weight: bold; padding: 5px; background-color: #f1f1f1; border-radius: 5px; color: #333;"> Sovereignty</span>
 </p>
-
 
 ---
 
@@ -355,7 +354,7 @@ We maintain a diverse ecosystem of open-source tools, organized into the main ca
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tuby" target="_blank">
-        <img src="https://hosted.inled.es/1/tuby.png" width="80" alt="Tuby logo"><br>
+        <img src="https://hosted.inled.es/img/tuby.png" width="80" alt="Tuby logo"><br>
         <b>Tuby</b>
       </a><br>
       <sub>Download YT videos and audio with maximum quality in 3 clicks. Isolated and secure.</sub>
