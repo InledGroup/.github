@@ -183,6 +183,13 @@
   </tr>
   <tr>
     <td align="center" width="250" valign="top">
+      <a href="https://inled.es/apps/discord-translate" target="_blank">
+        <img src="https://hosted.inled.es/cdn/discord-translate.png" width="80" alt="Discord Translate logo"><br>
+        <b>Discord Translate</b>
+      </a><br>
+      <sub>Automatic or manual translation from the right-click menu, below the message or replacing it. Free, no API key.</sub>
+    </td>
+    <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/macboat" target="_blank">
         <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
         <b>Macboat</b>
@@ -196,6 +203,8 @@
       </a><br>
       <sub>Your all-in-one package manager: easily install, uninstall, and manage apps.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/web2skill" target="_blank">
         <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
@@ -203,8 +212,6 @@
       </a><br>
       <sub>Convert web documentation into AI-optimized Markdown skills.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/agent-tunnel" target="_blank">
         <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
@@ -219,6 +226,8 @@
       </a><br>
       <sub>Turn your browser into a Nautilus-style (GNOME) file explorer. Private and powerful.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabnest" target="_blank">
         <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
@@ -226,8 +235,6 @@
       </a><br>
       <sub>Your personal control center in every new tab: TV, radio, and news.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/vozes" target="_blank">
         <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
@@ -242,6 +249,8 @@
       </a><br>
       <sub>Your local and private AI copilot that solves doubts about the web you visit.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
@@ -249,8 +258,6 @@
       </a><br>
       <sub>Open your PDF files in a true, customizable dark mode.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -265,6 +272,8 @@
       </a><br>
       <sub>Download YT videos and audio with maximum quality in 3 clicks. Isolated and secure.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -272,8 +281,6 @@
       </a><br>
       <sub>Ultra-secure browsing through remote isolation and network hardening.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cleany" target="_blank">
         <img src="https://hosted.inled.es/cleany.png" width="80" alt="Cleany logo"><br>
@@ -288,6 +295,8 @@
       </a><br>
       <sub>Chat on the same Wi-Fi network, without external servers.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -295,8 +304,6 @@
       </a><br>
       <sub>Share files across the local network in a 100% private way.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/moodlenotifier" target="_blank">
         <img src="https://hosted.inled.es/moodlenotifier.png" width="80" alt="Moodle Notifier logo"><br>
@@ -311,6 +318,8 @@
       </a><br>
       <sub>Super simple graphical interface to manage Cloudflare's free VPN: Warp.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -318,8 +327,6 @@
       </a><br>
       <sub>Use the search engine you want. Easy, in 3 clicks.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startntp" target="_blank">
         <img src="https://hosted.inled.es/start.newtabpage.png" width="80" alt="Start New Tab Page logo"><br>
@@ -334,6 +341,8 @@
       </a><br>
       <sub>Enjoy the Windows XP error window on your Mac.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -341,8 +350,6 @@
       </a><br>
       <sub>Simulate the Windows BSOD... on your Mac!</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabstacker" target="_blank">
         <img src="https://hosted.inled.es/tabstacker.png" width="80" alt="Tabstacker logo"><br>
@@ -357,6 +364,8 @@
       </a><br>
       <sub>Open the page in archive.is with one click.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/memorywarn" target="_blank">
         <img src="https://hosted.inled.es/memory-warn-logo.png" width="80" alt="Memory Warn logo"><br>
@@ -364,6 +373,8 @@
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
+    <td width="250"></td>
+    <td width="250"></td>
   </tr>
 </table>
 
