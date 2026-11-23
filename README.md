@@ -26,7 +26,7 @@
         <img src="https://hosted.inled.es/seafari.png" width="80" alt="Seafari logo"><br>
         <b>Seafari</b>
       </a><br>
-      <sub>Safari browser clone built on Firefox, offering maximum freedom, compatibility, and thousands of extensions.</sub>
+      <sub>The Safari experience on Linux, now stable: switch how websites see you and make the browser yours with live wallpapers.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/codexbar-gnome" target="_blank">
@@ -52,12 +52,21 @@
       <sub>Export your AI conversations 100% for free to WORD, PDF, MD, TXT, and JSON.</sub>
     </td>
     <td align="center" width="250" valign="top">
-      <a href="https://office.inled.es/" target="_blank">
-        <img src="https://hosted.inled.es/insuite.svg" width="80" alt="Insuite Office logo"><br>
-        <b>Insuite Office</b>
+      <a href="https://insuite.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/cdn/insuite.svg" width="80" alt="InSuite logo"><br>
+        <b>InSuite</b>
       </a><br>
       <sub>The Office suite that runs in your browser is 100% private, uploads nothing to the cloud, requires no account, and is 100% made in Spain.</sub>
     </td>
+    <td align="center" width="250" valign="top">
+      <a href="https://iccount.inled.es" target="_blank">
+        <img src="https://hosted.inled.es/cdn/inled-ring-v2-logo.png" width="80" alt="iccount logo"><br>
+        <b>iccount</b>
+      </a><br>
+      <sub>The ecosystem's identity layer: OAuth 2.0 and OpenID Connect, zero-knowledge by design.</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://start.inled.es" target="_blank">
         <img src="https://hosted.inled.es/start-simple-blanco-sinfondo.png" width="80" alt="Start logo"><br>
@@ -65,8 +74,6 @@
       </a><br>
       <sub>The search engine of search engines, the most private and made in Spain</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mypdf.inled.es" target="_blank">
         <img src="https://hosted.inled.es/MYPDF.png" width="80" alt="MyPDF logo"><br>
@@ -81,6 +88,8 @@
       </a><br>
       <sub>Metadata removers upload your file to their servers. We don't, everything is processed in your own browser.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://mdpedia.inled.es" target="_blank">
         <img src="https://hosted.inled.es/mdpedia.png" width="80" alt="MDPEDIA logo"><br>
@@ -88,8 +97,6 @@
       </a><br>
       <sub>Knowledge for the AI Era. The Wikipedia for AI Agents.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://edge.inled.es/landing" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="Edge AI logo"><br>
@@ -104,28 +111,14 @@
       </a><br>
       <sub>Collaborative online text and document editor.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inmd" target="_blank">
         <img src="https://hosted.inled.es/inMD.png" width="80" alt="InMD logo"><br>
         <b>InMD</b>
       </a><br>
       <sub>Powerful and free visual Markdown editor.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250" valign="top">
-      <a href="https://insuite.inled.es/mdpdf" target="_blank">
-        <img src="https://hosted.inled.es/MDPDF.png" width="80" alt="MDPDF Online logo"><br>
-        <b>MDPDF Online</b>
-      </a><br>
-      <sub>Convert Markdown to PDF from your browser.</sub>
-    </td>
-    <td align="center" width="250" valign="top">
-      <a href="https://insuite.inled.es/inlinked" target="_blank">
-        <img src="https://hosted.inled.es/INLINKED.png" width="80" alt="InLinked logo"><br>
-        <b>InLinked</b>
-      </a><br>
-      <sub>AI-powered LinkedIn post generator.</sub>
     </td>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/inqr" target="_blank">
@@ -134,8 +127,6 @@
       </a><br>
       <sub>Secure and private QR code generator.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://insuite.inled.es/mdoxc" target="_blank">
         <img src="https://hosted.inled.es/MDOCX.png" width="80" alt="MDocX logo"><br>
@@ -143,6 +134,8 @@
       </a><br>
       <sub>Instantly convert Markdown files to DOCX and vice versa.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://devreka.inled.es" target="_blank">
         <img src="https://hosted.inled.es/devreka.png" width="80" alt="Devreka! logo"><br>
@@ -157,8 +150,6 @@
       </a><br>
       <sub>Transform SVGs to liquid glass.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://matrix-www.inled.es" target="_blank">
         <img src="https://hosted.inled.es/matrixwww.ico" width="80" alt="Matrix WWW logo"><br>
@@ -166,6 +157,8 @@
       </a><br>
       <sub>Matrix simulations, in the browser.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://aicloud.inled.es" target="_blank">
         <img src="https://hosted.inled.es/inledai.svg" width="80" alt="AI Cloud logo"><br>
@@ -180,8 +173,6 @@
       </a><br>
       <sub>The Linux distribution that replaces Mac and will replace Windows and Android TV</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/discord-translate" target="_blank">
         <img src="https://hosted.inled.es/cdn/discord-translate.png" width="80" alt="Discord Translate logo"><br>
@@ -189,6 +180,8 @@
       </a><br>
       <sub>Automatic or manual translation from the right-click menu, below the message or replacing it. Free, no API key.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/macboat" target="_blank">
         <img src="https://hosted.inled.es/macboat.png" width="80" alt="Macboat logo"><br>
@@ -203,8 +196,6 @@
       </a><br>
       <sub>Your all-in-one package manager: easily install, uninstall, and manage apps.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/web2skill" target="_blank">
         <img src="https://hosted.inled.es/web2skill-w2s.png" width="80" alt="web2skill logo"><br>
@@ -212,6 +203,8 @@
       </a><br>
       <sub>Convert web documentation into AI-optimized Markdown skills.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/agent-tunnel" target="_blank">
         <img src="https://hosted.inled.es/new-agent-tunnel.png" width="80" alt="Agent Tunnel logo"><br>
@@ -226,8 +219,6 @@
       </a><br>
       <sub>Turn your browser into a Nautilus-style (GNOME) file explorer. Private and powerful.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabnest" target="_blank">
         <img src="https://hosted.inled.es/tabnest.png" width="80" alt="TabNest logo"><br>
@@ -235,6 +226,8 @@
       </a><br>
       <sub>Your personal control center in every new tab: TV, radio, and news.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/vozes" target="_blank">
         <img src="https://hosted.inled.es/vozes.png" width="80" alt="Vozes logo"><br>
@@ -249,8 +242,6 @@
       </a><br>
       <sub>Your local and private AI copilot that solves doubts about the web you visit.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/darkreaderpdf" target="_blank">
         <img src="https://hosted.inled.es/darkreaderpdf.png" width="80" alt="Dark Reader PDF logo"><br>
@@ -258,6 +249,8 @@
       </a><br>
       <sub>Open your PDF files in a true, customizable dark mode.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://oap.inled.es" target="_blank">
         <img src="https://hosted.inled.es/oap.png" width="80" alt="OAP logo"><br>
@@ -272,8 +265,6 @@
       </a><br>
       <sub>Download YT videos and audio with maximum quality in 3 clicks. Isolated and secure.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/bastion" target="_blank">
         <img src="https://hosted.inled.es/bastion.png" width="80" alt="Bastion Browser logo"><br>
@@ -281,6 +272,8 @@
       </a><br>
       <sub>Ultra-secure browsing through remote isolation and network hardening.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/cleany" target="_blank">
         <img src="https://hosted.inled.es/cleany.png" width="80" alt="Cleany logo"><br>
@@ -295,8 +288,6 @@
       </a><br>
       <sub>Chat on the same Wi-Fi network, without external servers.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/inshare" target="_blank">
         <img src="https://hosted.inled.es/inshare.capture.png" width="80" alt="InShare logo"><br>
@@ -304,6 +295,8 @@
       </a><br>
       <sub>Share files across the local network in a 100% private way.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/moodlenotifier" target="_blank">
         <img src="https://hosted.inled.es/moodlenotifier.png" width="80" alt="Moodle Notifier logo"><br>
@@ -318,8 +311,6 @@
       </a><br>
       <sub>Super simple graphical interface to manage Cloudflare's free VPN: Warp.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startomnibox" target="_blank">
         <img src="https://hosted.inled.es/icon128.png" width="80" alt="Start Omnibox logo"><br>
@@ -327,6 +318,8 @@
       </a><br>
       <sub>Use the search engine you want. Easy, in 3 clicks.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/startntp" target="_blank">
         <img src="https://hosted.inled.es/start.newtabpage.png" width="80" alt="Start New Tab Page logo"><br>
@@ -341,8 +334,6 @@
       </a><br>
       <sub>Enjoy the Windows XP error window on your Mac.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/winbsod" target="_blank">
         <img src="https://hosted.inled.es/winbsod.png" width="80" alt="WinBSOD logo"><br>
@@ -350,6 +341,8 @@
       </a><br>
       <sub>Simulate the Windows BSOD... on your Mac!</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/tabstacker" target="_blank">
         <img src="https://hosted.inled.es/tabstacker.png" width="80" alt="Tabstacker logo"><br>
@@ -364,8 +357,6 @@
       </a><br>
       <sub>Open the page in archive.is with one click.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="250" valign="top">
       <a href="https://inled.es/apps/memorywarn" target="_blank">
         <img src="https://hosted.inled.es/memory-warn-logo.png" width="80" alt="Memory Warn logo"><br>
@@ -373,8 +364,6 @@
       </a><br>
       <sub>Warns when your computer's memory usage exceeds a set threshold.</sub>
     </td>
-    <td width="250"></td>
-    <td width="250"></td>
   </tr>
 </table>
 
